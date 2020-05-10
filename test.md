@@ -1,3 +1,9 @@
+---
+layout: page
+title: "test1 title...."
+permalink: /test/test1
+---
+
 ## this is a test page
 
 ### one
