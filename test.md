@@ -19,4 +19,4 @@ permalink: /test/test1
 2. BBB
 3. CCC
 ### 图片
-![test1](./test.png)
+![test1](./test1.png)
